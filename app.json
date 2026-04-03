@@ -2,6 +2,7 @@
   "expo": {
     "name": "APPTECH",
     "slug": "APPTECH",
+    "scheme": "apptech",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,10 +21,16 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.hudsoncls.APPTECH"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ea691139-584a-4b01-8b1e-739bf43f5bb7"
+      }
     }
   }
 }
