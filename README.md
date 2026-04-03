@@ -74,4 +74,8 @@ Abra o aplicativo Expo Go no seu celular e escaneie o QR Code que aparecerá no 
 
 Alternativamente, pressione a no terminal para abrir no emulador Android ou i para o simulador iOS.
 
-Feito Quebrando a "cuca" com muito café por [Hudson Calasans/github.com/HudsonCls].
+Feito Quebrando a "cuca" com muito café por [Hudson Calasans/[GitHub](https://github.com/HudsonCls).].
+
+## 📄 Licença
+
+Este projeto é distribuído sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
