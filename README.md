@@ -20,12 +20,19 @@ O projeto foi construído utilizando o ecossistema React Native em conjunto com 
 
 As principais bibliotecas e dependências incluem: 
 React Native: Framework principal para desenvolvimento mobile multiplataforma.
+
 Expo: Plataforma e conjunto de ferramentas para facilitar o build e deploy.
+
 React Navigation: Gerenciamento de rotas e navegação via Bottom Tabs (@react-navigation/native e @react-navigation/bottom-tabs).
+
 AsyncStorage: Armazenamento local de dados (@react-native-async-storage/async-storage).
+
 Picker: Componente de seleção em dropdown (@react-native-picker/picker).
+
 DateTimePicker: Componente nativo para seleção de data e hora (@react-native-community/datetimepicker).
+
 Expo Vector Icons: Biblioteca de ícones utilizando o padrão FontAwesome.
+
 
 🏗️ Estrutura e Arquitetura de Dados (Storage)
 
