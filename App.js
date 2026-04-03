@@ -31,7 +31,8 @@ import { FontAwesome } from '@expo/vector-icons';
 
 const Tab = createBottomTabNavigator();
 
-const ADMIN_WHATSAPP_NUMBER = '5561996335282'
+const ADMIN_WHATSAPP_NUMBER = '5561-99999-9999'; // Substitua pelo número real da empresa (com código do país, sem espaços ou traços)
+
 
 /* ------------------ TELA DE LOGIN ------------------ */
 
