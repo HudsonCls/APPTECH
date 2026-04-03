@@ -1,4 +1,4 @@
-//  App.js - Aplicativo de Agendamento e Acompanhamento de Serviços
+//  AppTech - Aplicativo de Agendamento e Acompanhamento de Serviços
 //  Desenvolvido para a Dominus Tech, especializada em assistência técnica e venda de celulares.
 //  Funcionalidades:
 //  - Tela de Login/Cadastro com validação de email e senha.
