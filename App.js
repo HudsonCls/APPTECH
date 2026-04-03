@@ -1,3 +1,16 @@
+//  App.js - Aplicativo de Agendamento e Acompanhamento de Serviços
+//  Desenvolvido para a Dominus Tech, especializada em assistência técnica e venda de celulares.
+//  Funcionalidades:
+//  - Tela de Login/Cadastro com validação de email e senha.
+//  - Tela de Acompanhamento de Serviços agendados, exibindo data e hora formatadas.
+//  - Tela de Agendamento com seleção de serviço, data e horário, e confirmação via WhatsApp.
+//  - Armazenamento local usando AsyncStorage, com chaves específicas para cada usuário.
+//  - Navegação entre telas usando React Navigation.
+ 
+//   Observações:
+//  - O número do WhatsApp para contato é definido na constante ADMIN_WHATSAPP_NUMBER.
+//  - O aplicativo é estilizado com um tema escuro e moderno, utilizando verde neon para destaques.
+
 import React, { useEffect, useState, useCallback } from 'react';
 import {
   View,
