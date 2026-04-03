@@ -2,15 +2,6 @@
 
 📖 DescriçãoAplicativo mobile desenvolvido para a Dominus Tech, especializada em assistência técnica e venda de celulares e acessórios. O objetivo do app é facilitar a comunicação e o atendimento ao cliente, permitindo a criação de contas, o agendamento de serviços técnicos ou reserva de produtos, e o acompanhamento do histórico de solicitações diretamente pelo smartphone. Tudo isso integrado a um design moderno com tema escuro (Dark Mode) e destaques em verde neon.
 
-📸 Demonstração
-
-Tela de Login/Cadastro
-<img src="\assets\tela-login.png" width="250" />
-Tela de Acompanhamento
-<img src="\assets\tela-acompanhamento.png" width="250" />
-Tela de Agendamento
-<img src="\assets\tela-agendamento.png" width="250" />
-
 O aplicativo conta com um fluxo completo para o usuário final:
 🔐 Autenticação Local: 
 Sistema de Login e Cadastro com validação de formato de e-mail e regras de segurança para a senha (mínimo de 6 caracteres).
