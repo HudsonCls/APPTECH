@@ -114,7 +114,7 @@ function LoginScreen({ setIsLogged }) {
         {modoCadastro ? 'Crie sua conta e comece agora' : 'Acesse sua conta:'}
       </Text>
 
-      <TextInput
+      <TextInput //estilizando o campo de inserção de email
         style={styles.input}
         placeholder="Digite seu e-mail"
         placeholderTextColor="#aaa"
